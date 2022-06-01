@@ -1,1 +1,1 @@
-react.js dev, web3 enthusiast, and junior programmer. 
+react.js dev, junior programmer, and web3 enthusiast. 
