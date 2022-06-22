@@ -1,1 +1,1 @@
-react.js dev, avid tinkerer, and eth⟠ enthusiast. 
+dev, student, and eth⟠ enthusiast. 
